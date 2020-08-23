@@ -1,0 +1,10 @@
+C:\Users\DAVID CASTAÑEDA\source\repos\TiendasTemporadasEjercicio\TiendasTemporadasEjercicio\bin\Debug\TiendasTemporadasEjercicio.exe.config
+C:\Users\DAVID CASTAÑEDA\source\repos\TiendasTemporadasEjercicio\TiendasTemporadasEjercicio\bin\Debug\TiendasTemporadasEjercicio.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\TiendasTemporadasEjercicio\TiendasTemporadasEjercicio\bin\Debug\TiendasTemporadasEjercicio.pdb
+C:\Users\DAVID CASTAÑEDA\source\repos\TiendasTemporadasEjercicio\TiendasTemporadasEjercicio\obj\Debug\TiendasTemporadasEjercicio.csprojAssemblyReference.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\TiendasTemporadasEjercicio\TiendasTemporadasEjercicio\obj\Debug\TiendasTemporadasEjercicio.Form1.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\TiendasTemporadasEjercicio\TiendasTemporadasEjercicio\obj\Debug\TiendasTemporadasEjercicio.Properties.Resources.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\TiendasTemporadasEjercicio\TiendasTemporadasEjercicio\obj\Debug\TiendasTemporadasEjercicio.csproj.GenerateResource.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\TiendasTemporadasEjercicio\TiendasTemporadasEjercicio\obj\Debug\TiendasTemporadasEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\TiendasTemporadasEjercicio\TiendasTemporadasEjercicio\obj\Debug\TiendasTemporadasEjercicio.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\TiendasTemporadasEjercicio\TiendasTemporadasEjercicio\obj\Debug\TiendasTemporadasEjercicio.pdb
